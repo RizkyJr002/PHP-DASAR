@@ -1,0 +1,2 @@
+<h1>Tentang</h1>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe quod blanditiis maxime nobis nostrum mollitia autem sint nulla nam porro. Mollitia laboriosam ullam, iure adipisci cupiditate quidem nihil modi voluptas!</p>
